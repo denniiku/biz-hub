@@ -1,134 +1,20 @@
-[Concepts]
+# PROJECT: sc_web - Signal Star Universe Master Blueprint
 
-Concept
-minimal, simple
-simple infographic + floating navigation bar
-by menu/ submenu: 
-to have a landing page (for 1st & 2nd level) by menu/ sub-menu w. simple info-graphic - white gray lines & orange poits
-landing pages for 1st & 2nd level, 3rd level: for details as bulletized + buttons to move.
-1st level (landing page) for domain & sub domains
-2nd level : [if click 1st:  move to new page 2nd landing page
-3rd level: [if click 2nd] : adding area for details to the below of level 2.
-🔺: 1st level,🔸:2nd level,▫️: 3rd level
-common_assets
-prd, techstack, skill, + project .md
-storage folder
-Varients
-For individual, by menu/ submenu
-Prd, techstack, skill, /md
-Storage folder
+## 1. Core Identity & Vision
+- Brand Title: *sc - sistarcompany
+- Master Slogan: "Signal Star Universe - One Spark, Infinite Galaxifying"
+- Core Engine: Qubit Algorithm & Cosmo Seed Business Architecture ("One Task, Multi Outcomes")
+- Roadmap:
+  - Phase I: 1st Level (10 Core Domains) & 2nd Level (Main Categories / Companies)
+  - Phase II: 3rd Level (Projects) & 4th Level (Details)
+  - Commercial Flow: Qubit Algorithm + Intelligence Core -> Scarlet-AI, Qubit-Biz -> Biz-Galaxy, Biz-Hub
 
-Header
-‘*sc - sistar company : to the left.
-‘Search-bar’ to the right
+## 2. Left Collapsible Navigator (Gemini-Web Style)
+- Left-side collapsible sidebar with half-transparent bright-gray glass (rgba(221, 230, 237, 0.68), blur(20px)) over the main gradient.
+- Top-left: *sc - sistarcompany + Search button + Fold/Unfold button.
+- Folded: Only *sc and Unfold button shown.
+- Unfolded: 1st Level & 2nd Level shown; clicking 2nd Level drops down 3rd/4th Level and navigates directly.
 
-Landing pages
-3/4 of space & left side: infographic + slogan
- Infographic
-
-in bright gray lines in simple shape + bright orange dots.
-Click one of infographic 
-Fron level 1 -> 2 : new page
-From level 2 -> s :detail pages of level 3, to be shown in the below, in separate area (w. horizontal gray line - separator, in-between.),
-in the3rd level (below 2nd level, if click one of 2nd level for 3rd level): 
-simple infos. as bulletized
-Lots of images & actual photo. infographic 
- & buttons: if click. possible jump for web-app/ download apps.
-Navigation
-1/4 of space & right side : navigator
-drop-down, as a branch. 
- to show 1st/ 2nd/ 3rd level.  further drop-down if click.
-auto upgrading navigation bar/ map, if generate/ modify menu & sub-menu (w. github repository)
-Bottom
-Contacts: email/ telephone/ social networks
-
-
-Design concept
-simple/ minimal.
-background gradation & font, as selected, but a little different colors by level/ menu. 
-
- Contacts
-sc @sistarcompany .com
-Social networks.
-
-Logo
-‘*sc - sistar company'  , not as a file.
-
-
-[Structure] : menu, sub meenu, slogan- taglines
-
-1. sistarcompany .com
-*sc - sistar company,  signal star 
-
-      I.
-🔺*sc - sistar company 
-🔺scarlet-ai
-🔺qubit-biz
-🔺biz-galaxy
-🔺biz-hub 
-
-                 II. & III
-🔸*sc - sistar company
-identities/ signatures
-vibe-working
-sistar challengers int’l
-sistar vibe working
-sistar int’l
-sc, sc .id, sc .kr, sc .vn, sc .jp, sc .cn, sc .us
-associations Int’l
-iint’l ai trade alliance
-Int’l ai data alliance
-media
-sistar studio
-the sistar post 
-Ir- pitchdeck
-
-🔸qubit algorithm
-qubit algorithm
-cosmoseed biz models
-
-🔸intelligence core
-sistar biz intelligence
-erp
-ai centers:
-rag/ fine-tuning
-ai- commerce
-Int’l ai trade
-physical ai
-
-
-2. scarlet-ai.sistarcompany .com
-scarlet-ai, ai commerce/ int’l trade platforms
-🔺scarlet-ai
-
-3. [qubit-biz.sistarcompany .com
-Qubit-biz, engineered by qubit algorithm ™
-🔺qubit-biz
-
-4. biz-galaxy.sistarcompany .com
-biz-galaxy, 
-🔺biz-galaxy
-🔸mind company
-🔸pet 
-🔸pet clinic
-chd
-
-
-🔸aqua
-🔸ayurvedic
-🔸edu
-🔸lifestyle goods
-🔸rnd, mfg
-scarlet the cat
-forever-young dog
-clinical edition : 
-botanical edition : 
-
-5. biz-hub.sistarcompany .com 
-biz-hub, 
-🔺biz-hub
-🔸sistar & co
-🔸sistar brands
-🔸sis- run
-🔸biz campaigns
-🔸
+## 3. Main Landing Page Concept (sistarcompany.com Exclusive)
+- Dynamic Cosmos/Universe cinematic view applied ONLY to the main root landing page.
+- Visuals inspired by: *sc spaceship, command center, qubit engine, biz galaxy, signal star universe (no floating text clutter).
